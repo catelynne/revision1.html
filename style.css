@@ -5,3 +5,7 @@
 table,th,td{
     border:4px solid;
 }
+
+.navbar{
+    background-color: cornflowerblue;
+}
